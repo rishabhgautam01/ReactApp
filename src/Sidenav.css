@@ -1,0 +1,88 @@
+.sidenav {
+
+
+    position: absolute;
+    width: 300px;
+    height: 1080px;
+    left: 0px;
+    top: 0px;
+
+    background: #1E5F74;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+  }
+
+
+  /* Rectangle 2 */
+
+.rec2{
+position: absolute;
+width: 300px;
+height: 65px;
+left: 0px;
+top: 133px;
+
+background: #133B5C;
+}
+
+.rec1{
+    position: absolute;
+    width: 300px;
+    height: 65px;
+    left: 0px;
+    top: 200px;
+    
+    
+}
+
+/* <Roll-no> */
+
+.roll{
+position: absolute;
+width: 99px;
+height: 28px;
+left: 101px;
+top: 34px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+z-index: 1;
+color: #FFFFFF;
+}
+
+#home{
+
+    position: absolute;
+width: 65px;
+height: 28px;
+left: 55px;
+/* top: 153px; */
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+padding-top: 20px;
+color: #F2F2F2;
+}
+
+#about{
+    
+position: absolute;
+width: 65px;
+height: 28px;
+left: 55px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #F2F2F2;
+}
+  

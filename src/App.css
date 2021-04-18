@@ -1,0 +1,43 @@
+.bg{
+  /* position: absolute;
+    width: 300px;
+    height: 100%;
+    left: 0px;
+    top: 0px; */
+
+    position:  absolute;
+    left: 300px;
+    width:100%;
+    height: 1080%;
+    padding-right: 300px;
+background: #E5E5E5;
+}
+
+#meet {
+  height: 56px;
+  width: 275px;
+  left: 359px;
+  top: 77px;
+  border-radius: undefinedpx;
+  position: absolute;
+width: 275px;
+height: 56px;
+left: 359px;
+top: 77px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 56px;
+
+color: #000000;
+  font-family: Roboto;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 56px;
+  letter-spacing: 0em;
+  text-align: left;
+
+}
